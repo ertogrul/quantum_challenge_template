@@ -1,13 +1,17 @@
 <br>
 
 ## Fight for Superposition - Quantum Challenge 2021 
-(this is a copy of page created for Quantum Challenge organized by IBM Poland and BNP Paribas)
+### (this is a copy of page created for Quantum Challenge organized by IBM Poland and BNP Paribas)
+
 *****
 <br>
 <br>
 
 
-
+## Instructions to set up the page for your needs
+* [Fight for Superposition - Quantum Challenge 2021(Qchallenge/README.md)  
+<br>
+<br>
 
 
 ## Click here to start the challenge
