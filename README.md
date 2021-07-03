@@ -1,10 +1,6 @@
 <br>
-# Walcz o Superpozycję - Kwantowe Wyzwanie Banku BNP Paribas
-(Kopia strony powstałej na potrzeby hackathonu Quantum Computing organizowanego przez BNP Paribas in IBM Polska)
-<br>
-<br>
-Zostań developerem kwantowym i zdobądź płatny staż w Banku BNP Paribas
-
+# Fight for Superposition - Quantum Challenge 2021 
+(this is a copy of page created for Quantum Challenge organized by IBM Poland and BNP Paribas)
 *****
 <br>
 <br>
@@ -13,8 +9,8 @@ Zostań developerem kwantowym i zdobądź płatny staż w Banku BNP Paribas
 
 
 
-## Kliknij poniższy link, aby rozpocząć.
-* [Walcz o Superpozycję - Kwantowe Wyzwanie Banku BNP Paribas](Qchallenge/README.md)  
+## Click here to start the challenge
+* [Fight for Superposition - Quantum Challenge 2021(Qchallenge/README.md)  
 <br>
 <br>
 <br>
@@ -23,7 +19,7 @@ Zostań developerem kwantowym i zdobądź płatny staż w Banku BNP Paribas
 <br>
 
 ![quantum-obrazek](/images/q2.png)
-###### Ilustracja przygotowana na podstawie komiksu „Rewolucja stanu – fantastyczne wprowadzenie do informatyki kwantowej” (https://depot.ceon.pl/handle/123456789/16807) autorstwa Katarzyny Kary, Michała Cholewy i Piotra Gawrona wydanego przez Instytut Informatyki Teoretycznej i Stosowanej PAN w Gliwicach udostępnionego na licencji CC-BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.pl).
+###### Illustration prepared on the basis of the comic book "State Revolution - a fantastic introduction to quantum computing" (https://depot.ceon.pl/handle/123456789/16807) by Katarzyna Kara, Michał Cholawa and Piotr Gawron published by the Institute of Theoretical and Applied Informatics of the Polish Academy of Sciences in Gliwice, available under the CC-BY 4.0 license (https://creativecommons.org/licenses/by/4.0/deed.pl).
 
 
 
